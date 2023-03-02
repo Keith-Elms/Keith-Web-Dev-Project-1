@@ -8,4 +8,5 @@ I tried to put the JQuery links inside the 'head' but it wouldn't work there for
 I used active links for the menu items and the hyperlinks in the body text. They will take you to the correct pages.
 
 Thanks,
+
 Keith Elms
